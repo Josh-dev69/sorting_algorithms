@@ -2,8 +2,8 @@
 
 /**
  * selection_sort - Function that performs selection sorting
- * array: pointer to the array to be sorted.
- * size: the size of the array
+ * @array: pointer to the array to be sorted.
+ * @size: the size of the array
  */
 
 void selection_sort(int *array, size_t size)

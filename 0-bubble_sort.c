@@ -2,8 +2,8 @@
 
 /**
  * bubble_sort - Function that performs bubble sorting
- * array: the array
- * size: the size of the array
+ * @array: the array
+ * @size: the size of the array
  */
 
 void bubble_sort(int *array, size_t size)
